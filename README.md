@@ -1,63 +1,25 @@
-# chapitre-fou-furieux
-Encore perdu j'utilise encore beaucoup trop mon Intelligence
-ⒿⓅ  ⓌⒺⓁⒸⓄⓜⒺ   ❖    ₿    ⵢ     ✴
+Here are some notable quotes about hacker life:
 
-𝗔𝗥𝗥𝗘̂𝗧𝗘 𝗗𝗘 𝗡𝗜𝗔𝗜𝗦𝗘𝗥Métavers Espace virtuel collectif partagé, créé par la convergence dʼune réalité physique virtuellement améliorée et dʼun espace virtuel physiquement persistant, comprenant la somme de tous les mondes virtuels, la réalité augmentée et lʼInternetEnregistrez la scène.
+1. **"Hackers are breaking the systems for profit. Before, it was about intellectual curiosity and pursuit of knowledge and thrill, and now hacking is big business."** - Kevin Mitnick
 
-Maintenant que les services Azure sont configurés et que les pointeurs appropriés se trouvent dans votre scène Unity, vous allez créer une interface utilisateur pour visualiser les données opérationnelles.
+2. **"Hacking is not about the money. It's about the challenge."** - Kevin Mitnick
 
-Besoin d'aide? Consultez notre guide de résolution des problèmes ou faites-nous part de vos commentaires spécifiques en signalant un problème.
+3. **"The hacker community has changed the world, and it'll continue to shape the future. Being a hacker means being willing to challenge authority, break the rules, and think outside the box."** - Jaron Lanier
 
-Français (Canada)
+4. **"In the hacker world, we do things for the fun of it."** - Linus Torvalds
 
-Thème
+5. **"Hacking is exploiting security controls either in a technical, physical or a human-based element."** - Kevin Mitnick
 
+6. **"Hacking just means building something quickly or testing the boundaries of what can be done."** - Mark Zuckerberg
 
-Games & Studios using Game Stack
+7. **"To be a hacker - when I use the term - is somebody who's creative and does wonderful things."** - Tim Berners-Lee
 
-View all
+8. **"Hackers are the immune system for the Internet."** - Jeff Moss (Dark Tangent), founder of Black Hat and DEF CON
 
-Record-breaking Fall Guys scales faster with Azure
+9. **"Hackers are not malicious by default. They are curious by default. With great knowledge comes great power and great responsibility."** - Roman Troanov
 
-Customer Story
+10. **"A hacker to me is someone creative who does wonderful things."** - Tim Berners-Lee
 
-"Fall Guys exceeded all expectations at launch...Azure provided all the reassurance we needed to scale elastically"
+These quotes capture the essence of hacking, highlighting the curiosity, creativity, and impact that hackers have on the world.
 
-Read story
-
-Kolibri Games optimizing games for millions with the cloud
-
-Customer Story
-
-WIth Azure, Kolibri Games learns quickly from players and ensures they always provide the best gaming experience.
-
-Read story
-
-Diarkis uses AKS to accelerate development and testing
-
-Customer Story
-
-The Diarkis platform, a platform to easily build multiplayer apps for millions of players, is built with AKS.
-
-Read story
-
-From the Game Stack blog
-
-View all
-
-Venturing deeper into the world of Simplygon SDK
-
-Article // Dec 9, 2021
-
-Poly is back in the park, with complete tutorials to help you get started navigating the Simplygon SDK.
-
-Read article
-
-Putting Your Game at the Center with Xbox Touch Controls
-
-Article // Dec 2, 2021
-
-Xbox touch controls unlock new ways for gamers to interact with their games, providing fans with even more choice.
-
-Read article
 
